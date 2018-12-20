@@ -4,4 +4,5 @@ branches:
 projects:
   SimpleNameColor-PMMP:
     path: ""
+    icon: icon.png
 ...

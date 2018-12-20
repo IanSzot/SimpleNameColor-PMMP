@@ -11,32 +11,32 @@ It also probably conflicts with other plugins that change the format of player c
 ### Permissions
 |  Permission       |  Function         |
 |-------------------|-------------------|
-| snc.aqua          | Aqua              |
-| snc.black         | Black             |
-| snc.blue          | Blue              |
-| snc.bold          | **Bold**          |
-| snc.darkaqua      | Dark aqua         |
-| snc.darkblue      | Dark blue         |
-| snc.darkgray      | Dark gray         |
-| snc.darkgreen     | Dark green        |
-| snc.darkpurple    | Dark purple       |
-| snc.darkred       | Dark red          |
-| snc.gold          | Gold              |
-| snc.gray          | Gray              |
-| snc.green         | Green             |
-| snc.italic        | *Italic*          |
-| snc.lightpurple   | Light purple      |
-| snc.obfuscated    | Obfuscated        |
-| snc.red           | Red               |
-| snc.strikethrough | ~~Strikethrough~~ |
-| snc.underline     | Underline         |
-| snc.yellow        | Yellow            |
-| snc.white         | White             |
+| simplenamecolor.aqua          | Aqua              |
+| simplenamecolor.black         | Black             |
+| simplenamecolor.blue          | Blue              |
+| simplenamecolor.bold          | **Bold**          |
+| simplenamecolor.darkaqua      | Dark aqua         |
+| simplenamecolor.darkblue      | Dark blue         |
+| simplenamecolor.darkgray      | Dark gray         |
+| simplenamecolor.darkgreen     | Dark green        |
+| simplenamecolor.darkpurple    | Dark purple       |
+| simplenamecolor.darkred       | Dark red          |
+| simplenamecolor.gold          | Gold              |
+| simplenamecolor.gray          | Gray              |
+| simplenamecolor.green         | Green             |
+| simplenamecolor.italic        | *Italic*          |
+| simplenamecolor.lightpurple   | Light purple      |
+| simplenamecolor.obfuscated    | Obfuscated        |
+| simplenamecolor.red           | Red               |
+| simplenamecolor.strikethrough | ~~Strikethrough~~ |
+| simplenamecolor.underline     | Underline         |
+| simplenamecolor.yellow        | Yellow            |
+| simplenamecolor.white         | White             |
 
 
 ---
 
-##### Known issues:
+#### Known issues:
 - Strikethrough and underline doesn't seem to work. Perhaps it's a limitation from the game itself.
 
 ---

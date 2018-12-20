@@ -1,0 +1,56 @@
+name: SimpleNameColor
+main: SimpleNameColor\SimpleNameColor
+author: IanSzot
+version: 0.1
+api: 3.0.0
+
+description: Easiest way to color player's names using permissions.
+website: https://ianszot.com
+
+permissions:
+  snp:
+    description: Main permission
+    default: false
+    children:
+      snp.aqua:
+        default: false
+      snp.black:
+        default: false
+      snp.blue:
+        default: false
+      snp.bold:
+        default: false
+      snp.darkaqua:
+        default: false
+      snp.darkblue:
+        default: false
+      snp.darkgray:
+        default: false
+      snp.darkgreen:
+        default: false
+      snp.darkpurple:
+        default: false
+      snp.darkred:
+        default: false
+      snp.gold:
+        default: false
+      snp.gray:
+        default: false
+      snp.green:
+        default: false
+      snp.italic:
+        default: false
+      snp.lightpurple:
+        default: false
+      snp.obfuscated:
+        default: false
+      snp.red:
+        default: false
+      snp.strikethrough:
+        default: false
+      snp.underline:
+        default: false
+      snp.yellow:
+        default: false
+      snp.white:
+        default: true

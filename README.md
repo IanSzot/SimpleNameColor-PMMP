@@ -11,30 +11,34 @@ It also probably conflicts with other plugins that change the format of player c
 ### Permissions
 |  Permission       |  Function         |
 |-------------------|-------------------|
-| snp.aqua          | Aqua              |
-| snp.black         | Black             |
-| snp.blue          | Blue              |
-| snp.bold          | **Bold**          |
-| snp.darkaqua      | Dark aqua         |
-| snp.darkblue      | Dark blue         |
-| snp.darkgray      | Dark gray         |
-| snp.darkgreen     | Dark green        |
-| snp.darkpurple    | Dark purple       |
-| snp.darkred       | Dark red          |
-| snp.gold          | Gold              |
-| snp.gray          | Gray              |
-| snp.green         | Green             |
-| snp.italic        | *Italic*          |
-| snp.lightpurple   | Light purple      |
-| snp.obfuscated    | Obfuscated        |
-| snp.red           | Red               |
-| snp.strikethrough | ~~Strikethrough~~ |
-| snp.underline     | Underline         |
-| snp.yellow        | Yellow            |
-| snp.white         | White             |
+| snc.aqua          | Aqua              |
+| snc.black         | Black             |
+| snc.blue          | Blue              |
+| snc.bold          | **Bold**          |
+| snc.darkaqua      | Dark aqua         |
+| snc.darkblue      | Dark blue         |
+| snc.darkgray      | Dark gray         |
+| snc.darkgreen     | Dark green        |
+| snc.darkpurple    | Dark purple       |
+| snc.darkred       | Dark red          |
+| snc.gold          | Gold              |
+| snc.gray          | Gray              |
+| snc.green         | Green             |
+| snc.italic        | *Italic*          |
+| snc.lightpurple   | Light purple      |
+| snc.obfuscated    | Obfuscated        |
+| snc.red           | Red               |
+| snc.strikethrough | ~~Strikethrough~~ |
+| snc.underline     | Underline         |
+| snc.yellow        | Yellow            |
+| snc.white         | White             |
 
 
 ---
 
+##### Known issues:
+- Strikethrough and underline doesn't seem to work. Perhaps it's a limitation from the game itself.
+
+---
 
 > I'd like once again to thank Pluto1099, MrZombie_II and Shockwave317 (wherever they are) for helping me in the original plugin, without them the original plugin would never have been released.

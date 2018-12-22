@@ -18,12 +18,7 @@ class SimpleNameColor extends PluginBase implements Listener{
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
                 
 	}
-        
-    public function onDisable() : void{
-        $this->getLogger()->info(TextFormat::DARK_RED . "SimpleNameColor disabled");
-                
-    }
-    
+          
             
     // checks for color permissions
     public function checkColorPerm($player) : string{
